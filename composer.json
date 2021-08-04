@@ -3,6 +3,7 @@
     "description": "Enum typu key-value z nazwą/opisem",
     "type": "library",
     "homepage": "https://github.com/mleczek/enum",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Wojciech Mleczek",
